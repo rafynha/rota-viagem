@@ -1,0 +1,64 @@
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.exe
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.deps.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.runtimeconfig.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.runtimeconfig.dev.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.pdb
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.xml
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.domain.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.domain.pdb
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\obj\Debug\netcoreapp3.1\api.rotas.csprojAssemblyReference.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\obj\Debug\netcoreapp3.1\api.rotas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\obj\Debug\netcoreapp3.1\api.rotas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\obj\Debug\netcoreapp3.1\api.rotas.AssemblyInfoInputs.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\obj\Debug\netcoreapp3.1\api.rotas.AssemblyInfo.cs
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\obj\Debug\netcoreapp3.1\api.rotas.RazorTargetAssemblyInfo.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\obj\Debug\netcoreapp3.1\api.rotas.csproj.CopyComplete
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\obj\Debug\netcoreapp3.1\staticwebassets\api.rotas.StaticWebAssets.Manifest.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\obj\Debug\netcoreapp3.1\staticwebassets\api.rotas.StaticWebAssets.xml
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\obj\Debug\netcoreapp3.1\api.rotas.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\obj\Debug\netcoreapp3.1\api.rotas.xml
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\obj\Debug\netcoreapp3.1\api.rotas.pdb
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.business.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.infrastructure.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.business.pdb
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.api\bin\Debug\netcoreapp3.1\api.rotas.infrastructure.pdb
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\appsettings.json
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.exe
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.deps.json
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.runtimeconfig.json
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.runtimeconfig.dev.json
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.pdb
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.xml
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.business.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.domain.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.infrastructure.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.domain.pdb
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.business.pdb
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\bin\Debug\netcoreapp3.1\api.rotas.infrastructure.pdb
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\obj\Debug\netcoreapp3.1\api.rotas.csprojAssemblyReference.cache
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\obj\Debug\netcoreapp3.1\api.rotas.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\obj\Debug\netcoreapp3.1\api.rotas.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\obj\Debug\netcoreapp3.1\api.rotas.AssemblyInfoInputs.cache
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\obj\Debug\netcoreapp3.1\api.rotas.AssemblyInfo.cs
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\obj\Debug\netcoreapp3.1\api.rotas.RazorTargetAssemblyInfo.cache
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\obj\Debug\netcoreapp3.1\api.rotas.csproj.CopyComplete
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\obj\Debug\netcoreapp3.1\staticwebassets\api.rotas.StaticWebAssets.Manifest.cache
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\obj\Debug\netcoreapp3.1\staticwebassets\api.rotas.StaticWebAssets.xml
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\obj\Debug\netcoreapp3.1\api.rotas.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\obj\Debug\netcoreapp3.1\api.rotas.xml
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.api\obj\Debug\netcoreapp3.1\api.rotas.pdb

@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "api.rotas.business/1.0.0": {
+        "dependencies": {
+          "api.rotas.domain": "1.0.0",
+          "api.rotas.infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "api.rotas.business.dll": {}
+        }
+      },
+      "api.rotas.domain/1.0.0": {
+        "runtime": {
+          "api.rotas.domain.dll": {}
+        }
+      },
+      "api.rotas.infrastructure/1.0.0": {
+        "dependencies": {
+          "api.rotas.domain": "1.0.0"
+        },
+        "runtime": {
+          "api.rotas.infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "api.rotas.business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "api.rotas.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "api.rotas.infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.infrastructure\bin\Debug\netcoreapp3.1\api.rotas.infrastructure.deps.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.infrastructure\bin\Debug\netcoreapp3.1\api.rotas.infrastructure.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.infrastructure\bin\Debug\netcoreapp3.1\api.rotas.infrastructure.pdb
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.infrastructure\bin\Debug\netcoreapp3.1\api.rotas.domain.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.infrastructure\bin\Debug\netcoreapp3.1\api.rotas.domain.pdb
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.infrastructure\obj\Debug\netcoreapp3.1\api.rotas.infrastructure.csprojAssemblyReference.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.infrastructure\obj\Debug\netcoreapp3.1\api.rotas.infrastructure.AssemblyInfoInputs.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.infrastructure\obj\Debug\netcoreapp3.1\api.rotas.infrastructure.AssemblyInfo.cs
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.infrastructure\obj\Debug\netcoreapp3.1\api.rotas.infrastructure.csproj.CopyComplete
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.infrastructure\obj\Debug\netcoreapp3.1\api.rotas.infrastructure.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.infrastructure\obj\Debug\netcoreapp3.1\api.rotas.infrastructure.pdb
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.infrastructure\bin\Debug\netcoreapp3.1\api.rotas.infrastructure.deps.json
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.infrastructure\bin\Debug\netcoreapp3.1\api.rotas.infrastructure.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.infrastructure\bin\Debug\netcoreapp3.1\api.rotas.infrastructure.pdb
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.infrastructure\bin\Debug\netcoreapp3.1\api.rotas.domain.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.infrastructure\bin\Debug\netcoreapp3.1\api.rotas.domain.pdb
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.infrastructure\obj\Debug\netcoreapp3.1\api.rotas.infrastructure.csprojAssemblyReference.cache
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.infrastructure\obj\Debug\netcoreapp3.1\api.rotas.infrastructure.AssemblyInfoInputs.cache
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.infrastructure\obj\Debug\netcoreapp3.1\api.rotas.infrastructure.AssemblyInfo.cs
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.infrastructure\obj\Debug\netcoreapp3.1\api.rotas.infrastructure.csproj.CopyComplete
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.infrastructure\obj\Debug\netcoreapp3.1\api.rotas.infrastructure.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.infrastructure\obj\Debug\netcoreapp3.1\api.rotas.infrastructure.pdb

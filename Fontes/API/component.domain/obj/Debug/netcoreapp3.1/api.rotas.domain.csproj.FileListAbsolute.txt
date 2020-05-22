@@ -1,0 +1,16 @@
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.domain\bin\Debug\netcoreapp3.1\api.rotas.domain.deps.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.domain\bin\Debug\netcoreapp3.1\api.rotas.domain.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.domain\bin\Debug\netcoreapp3.1\api.rotas.domain.pdb
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.domain\obj\Debug\netcoreapp3.1\api.rotas.domain.csprojAssemblyReference.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.domain\obj\Debug\netcoreapp3.1\api.rotas.domain.AssemblyInfoInputs.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.domain\obj\Debug\netcoreapp3.1\api.rotas.domain.AssemblyInfo.cs
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.domain\obj\Debug\netcoreapp3.1\api.rotas.domain.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\api.rotas\component.domain\obj\Debug\netcoreapp3.1\api.rotas.domain.pdb
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.domain\bin\Debug\netcoreapp3.1\api.rotas.domain.deps.json
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.domain\bin\Debug\netcoreapp3.1\api.rotas.domain.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.domain\bin\Debug\netcoreapp3.1\api.rotas.domain.pdb
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.domain\obj\Debug\netcoreapp3.1\api.rotas.domain.csprojAssemblyReference.cache
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.domain\obj\Debug\netcoreapp3.1\api.rotas.domain.AssemblyInfoInputs.cache
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.domain\obj\Debug\netcoreapp3.1\api.rotas.domain.AssemblyInfo.cs
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.domain\obj\Debug\netcoreapp3.1\api.rotas.domain.dll
+c:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\API\component.domain\obj\Debug\netcoreapp3.1\api.rotas.domain.pdb

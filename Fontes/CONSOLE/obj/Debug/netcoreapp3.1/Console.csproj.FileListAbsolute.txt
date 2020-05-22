@@ -1,0 +1,44 @@
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Console.exe
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Console.deps.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Console.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Console.pdb
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\obj\Debug\netcoreapp3.1\Console.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\obj\Debug\netcoreapp3.1\Console.pdb
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\Console\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Console.exe
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Console.deps.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Console.runtimeconfig.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Console.runtimeconfig.dev.json
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Console.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Console.pdb
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\obj\Debug\netcoreapp3.1\Console.csprojAssemblyReference.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\obj\Debug\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\obj\Debug\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\obj\Debug\netcoreapp3.1\Console.csproj.CopyComplete
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\obj\Debug\netcoreapp3.1\Console.dll
+C:\Users\Desenvolvedor\Documents\TESTE BANCO BEXS\TESTE TECNICO\Fontes\CONSOLE\obj\Debug\netcoreapp3.1\Console.pdb
