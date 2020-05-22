@@ -267,11 +267,7 @@ Obs.: Em questões de performance não seria o mais recomendado. Caso a performa
 A pasta raiz do projeto de api, contém as seguintes pastas, que são as camadas da aplicação.
 
 - component.api
-
   - Essa pasta contém o projeto principal da API REST, é onde estão os endpoints que serão expostos e toda a configuração da API.
-
-  Obs.: Nessa camada
-
 - component.business
   - Essa pasta contém o projeto da camada de negócio, é onde toda a lógica de busca de melhor rota está implementada.
 - component.domain
