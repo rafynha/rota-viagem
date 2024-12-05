@@ -19,7 +19,7 @@ Para executar o código já compilado, basta efetuar os passos abaixo com base n
 
 O resultado abaixo deve ser exibido:
 
-```mermaid
+```
 info: Microsoft.Hosting.Lifetime[0]
       Now listening on: http://localhost:5000
 info: Microsoft.Hosting.Lifetime[0]
@@ -43,7 +43,7 @@ Pronto, a API está no ar.
 
 O resultado abaixo deve ser exibido:
 
-```mermaid
+```
 ***********************************************************************************************************
 
                  _____   _____   __   _   _____   _   _   _       _____       ___   _____   _____   _____
@@ -82,7 +82,7 @@ Rota:
 
 O resultado abaixo deve ser exibido:
 
-```mermaid
+```
 info: Microsoft.Hosting.Lifetime[0]
       Now listening on: http://localhost:5000
 info: Microsoft.Hosting.Lifetime[0]
@@ -103,7 +103,7 @@ info: Microsoft.Hosting.Lifetime[0]
 
 O resultado abaixo deve ser exibido:
 
-```mermaid
+```
 ***********************************************************************************************************
 
                  _____   _____   __   _   _____   _   _   _       _____       ___   _____   _____   _____
@@ -150,19 +150,19 @@ Esse endpoint é responsável por listar todos os registros cadastrados no arqui
 
 curl
 
-```mermaid
+```
 curl -X GET "http://localhost:5000/Rota?caminhoArquivo=C%3A%5CUsers%5CPublic%5CDocuments%5Cinput-routes.csv" -H "accept: application/json"
 ```
 
 Request URL
 
-```mermaid
+```
 http://localhost:5000/Rota?caminhoArquivo=C%3A%5CUsers%5CPublic%5CDocuments%5Cinput-routes.csv
 ```
 
 #### Formato do Retorno
 
-```mermaid
+```
 [
   {
     "origem": "string",
@@ -188,19 +188,19 @@ Esse endpoint é responsável por trazer o resultado da busca de melhor rota.
 
 curl
 
-```mermaid
+```
 curl -X GET "http://localhost:5000/Rota/Best?origem=GRU&destino=CDG&caminhoArquivo=C%3A%5CUsers%5CPublic%5CDocuments%5Cinput-routes.csv" -H "accept: application/json"
 ```
 
 Request URL
 
-```mermaid
+```
 http://localhost:5000/Rota/Best?origem=GRU&destino=CDG&caminhoArquivo=C%3A%5CUsers%5CPublic%5CDocuments%5Cinput-routes.csv
 ```
 
 #### Formato do Retorno
 
-```mermaid
+```
 "MELHOR ROTA: GRU|BRC|SCL|ORL|CDG - VALOR: $40"
 ```
 
@@ -221,19 +221,19 @@ Esse endpoint é responsável por incluir informações no arquivo .csv.
 
 curl
 
-```mermaid
+```
 curl -X POST "http://localhost:5000/Rota" -H "accept: */*" -H "Content-Type: application/json" -d "{\"caminhoArquivo\":\"string\",\"origem\":\"string\",\"destino\":\"string\",\"valor\":0}"
 ```
 
 Request URL
 
-```mermaid
+```
 http://localhost:5000/Rota
 ```
 
 #### Formato da Requisição
 
-```mermaid
+```
 {
   "caminhoArquivo": "string",
   "origem": "string",
@@ -244,7 +244,7 @@ http://localhost:5000/Rota
 
 #### Formato do Retorno
 
-```mermaid
+```
 {
   "origem": "string",
   "destino": "string",
